@@ -5659,11 +5659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mertg\\source\\web\\istanfind\\istanfind\\istanfind.csproj",
+      "projectUniqueName": "C:\\Users\\mertg\\Source\\Repos\\istanfind-web\\istanfind\\istanfind.csproj",
       "projectName": "istanfind",
-      "projectPath": "C:\\Users\\mertg\\source\\web\\istanfind\\istanfind\\istanfind.csproj",
+      "projectPath": "C:\\Users\\mertg\\Source\\Repos\\istanfind-web\\istanfind\\istanfind.csproj",
       "packagesPath": "C:\\Users\\mertg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mertg\\source\\web\\istanfind\\istanfind\\obj\\",
+      "outputPath": "C:\\Users\\mertg\\Source\\Repos\\istanfind-web\\istanfind\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
